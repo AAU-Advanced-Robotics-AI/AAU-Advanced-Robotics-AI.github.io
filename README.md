@@ -1,1 +1,1 @@
-# AAU-Advanced-Robotics-AI.github.io
+# Advanced-Robotics-AI.github.io
